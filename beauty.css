@@ -1,0 +1,29 @@
+#border {
+  border: 0.2vw solid red;
+  height: 93vh;
+  border-radius: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#industriesbar {
+  border: 0.2vw solid red;
+  height: 4vh;
+  display: flex;
+  border-radius: 1vw;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+#industriesbar > div {
+  text-align: center;
+  border: 0.2vw solid red;
+  border-radius: 1vw;
+  height: auto;
+  width : auto;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f1f1f1;
+  line-height: 50%;
+  margin: 2vh;
+
+  font-size: 1vh;
+
+}
